@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# IDE
+.vscode/
+
+# Project specific
+src/local/
+*.pid
+
+# Logs
+*.log
